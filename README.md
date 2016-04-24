@@ -1,3 +1,7 @@
+**This project has been moved to [RxSwiftCommunity/RxMultipeer][rxmultipeer].**
+Please update your projects to use the new repository, as this one will no
+longer be maintained.
+
 # A testable, Rx* wrapper around MultipeerConnectivity
 
 Using the adapter pattern, we can test multipeer code with heavy mocking. In effect, we are trying to isolate all the
@@ -266,3 +270,4 @@ otherclient.receive()
 [rx]: http://reactivex.io/
 [RxSwift]: https://github.com/kzaher/RxSwift
 [buildconfig]: https://github.com/nathankot/NKMultipeer/wiki/How-to-define-custom-flags-for-the-testing-environment
+[rxmultipeer]: https://github.com/RxSwiftCommunity/RxMultipeer
